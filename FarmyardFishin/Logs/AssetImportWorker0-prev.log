@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2022.3/staging' branch; Version is '2022.3.52f1 (1120fcb54228) revision 1122556'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 32676 MB
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 32717 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2022.3.52f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2022.3.52f1-x86_64\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/Josh/OneDrive - Technological University Dublin/Unity Game Project/Farmyard Fishin'
+C:/Users/sean1/OneDrive - Technological University Dublin/Unity Projects/Unity Game Project/Farmyard Fishin'
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-59418
-Successfully changed project path to: C:/Users/Josh/OneDrive - Technological University Dublin/Unity Game Project/Farmyard Fishin'
-C:/Users/Josh/OneDrive - Technological University Dublin/Unity Game Project/Farmyard Fishin'
+50053
+Successfully changed project path to: C:/Users/sean1/OneDrive - Technological University Dublin/Unity Projects/Unity Game Project/Farmyard Fishin'
+C:/Users/sean1/OneDrive - Technological University Dublin/Unity Projects/Unity Game Project/Farmyard Fishin'
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -49,67 +49,67 @@ C:/Users/Josh/OneDrive - Technological University Dublin/Unity Game Project/Farm
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [19564]  Target information:
+Player connection [3840]  Target information:
 
-Player connection [19564]  * "[IP] 10.136.152.8 [Port] 0 [Flags] 2 [Guid] 126229578 [EditorId] 126229578 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-LGKVR85) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [3840]  * "[IP] 192.168.1.19 [Port] 0 [Flags] 2 [Guid] 4069605754 [EditorId] 4069605754 [Version] 1048832 [Id] WindowsEditor(7,The-Skelly-System) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [19564] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [19564] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [3840] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [3840] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-Refreshing native plugins compatible for Editor in 24.36 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 14.19 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.52f1 (1120fcb54228)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Josh/OneDrive - Technological University Dublin/Unity Game Project/Farmyard Fishin'/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.52f1-x86_64/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/sean1/OneDrive - Technological University Dublin/Unity Projects/Unity Game Project/Farmyard Fishin'/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Renderer: NVIDIA GeForce GTX 1660 (ID=0x2184)
     Vendor:   NVIDIA
-    VRAM:     5991 MB
-    Driver:   30.0.14.7280
+    VRAM:     5966 MB
+    Driver:   32.0.15.6094
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56896
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1-x86_64/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1-x86_64/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.52f1-x86_64/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56376
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.012987 seconds.
-- Loaded All Assemblies, in  0.477 seconds
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.52f1-x86_64/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.017972 seconds.
+- Loaded All Assemblies, in  0.846 seconds
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.352 seconds
-Domain Reload Profiling: 826ms
-	BeginReloadAssembly (163ms)
+- Finished resetting the current domain, in  0.340 seconds
+Domain Reload Profiling: 1184ms
+	BeginReloadAssembly (467ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (45ms)
+		CreateAndSetChildDomain (4ms)
+	RebuildCommonClasses (71ms)
 	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (78ms)
-	LoadAllAssembliesAndSetupDomain (175ms)
-		LoadAssemblies (159ms)
+	initialDomainReloadingComplete (101ms)
+	LoadAllAssembliesAndSetupDomain (192ms)
+		LoadAssemblies (443ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (172ms)
-			TypeCache.Refresh (170ms)
-				TypeCache.ScanAssembly (153ms)
+		AnalyzeDomain (189ms)
+			TypeCache.Refresh (188ms)
+				TypeCache.ScanAssembly (172ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
-			ResolveRequiredComponents (1ms)
-	FinalizeReload (353ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (341ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (293ms)
+		SetupLoadedEditorAssemblies (273ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (12ms)
-			SetLoadedEditorAssemblies (9ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (12ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (3ms)
-			ProcessInitializeOnLoadAttributes (206ms)
-			ProcessInitializeOnLoadMethodAttributes (63ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (192ms)
+			ProcessInitializeOnLoadMethodAttributes (53ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -118,54 +118,54 @@ Domain Reload Profiling: 826ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  2.106 seconds
+- Loaded All Assemblies, in  0.774 seconds
 Native extension for WindowsStandalone target not found
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.854 seconds
-Domain Reload Profiling: 2954ms
-	BeginReloadAssembly (222ms)
+- Finished resetting the current domain, in  2.654 seconds
+Domain Reload Profiling: 3425ms
+	BeginReloadAssembly (191ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (8ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (26ms)
-	RebuildCommonClasses (48ms)
-	RebuildNativeTypeToScriptingClass (13ms)
-	initialDomainReloadingComplete (60ms)
-	LoadAllAssembliesAndSetupDomain (1757ms)
-		LoadAssemblies (1650ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (18ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (479ms)
+		LoadAssemblies (367ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (248ms)
-			TypeCache.Refresh (217ms)
-				TypeCache.ScanAssembly (195ms)
-			ScanForSourceGeneratedMonoScriptInfo (20ms)
-			ResolveRequiredComponents (9ms)
-	FinalizeReload (854ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (200ms)
+				TypeCache.ScanAssembly (183ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (2654ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (671ms)
+		SetupLoadedEditorAssemblies (2493ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (9ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (5ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (92ms)
-			ProcessInitializeOnLoadAttributes (524ms)
-			ProcessInitializeOnLoadMethodAttributes (26ms)
-			AfterProcessingInitializeOnLoad (14ms)
+			BeforeProcessingInitializeOnLoad (75ms)
+			ProcessInitializeOnLoadAttributes (2129ms)
+			ProcessInitializeOnLoadMethodAttributes (268ms)
+			AfterProcessingInitializeOnLoad (9ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (9ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 9.28 ms, found 3 plugins.
+		AwakeInstancesAfterBackupRestoration (7ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 6.46 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3098 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 19 unused Assets / (54.9 KB). Loaded Objects now: 3564.
-Memory consumption went from 118.4 MB to 118.3 MB.
-Total: 3.948900 ms (FindLiveObjects: 0.305400 ms CreateObjectMapping: 0.405600 ms MarkObjects: 3.101900 ms  DeleteObjects: 0.134900 ms)
+Unloading 3099 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 19 unused Assets / (54.9 KB). Loaded Objects now: 3565.
+Memory consumption went from 118.5 MB to 118.4 MB.
+Total: 3.419100 ms (FindLiveObjects: 0.368600 ms CreateObjectMapping: 0.090600 ms MarkObjects: 2.801800 ms  DeleteObjects: 0.156300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -182,366 +182,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 138950.941250 seconds.
-  path: Assets/Prefabs/SK_Sheep_white.prefab
-  artifactKey: Guid(c93e2647334639a46913ec62b8de83d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/SK_Sheep_white.prefab using Guid(c93e2647334639a46913ec62b8de83d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3fb6da0afc0710f09835dc196349db82') in 0.281555 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.000090 seconds.
-  path: Assets/Prefabs/fish.prefab
-  artifactKey: Guid(cced9d45a0ad7d24ea6fc8d617c33c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/fish.prefab using Guid(cced9d45a0ad7d24ea6fc8d617c33c0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'eb91cb35882f4a39efe91c7d6e05e094') in 0.022338 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Prefabs/Sphere.prefab
-  artifactKey: Guid(c50de59f22613f34db6331d7dca5252b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/Sphere.prefab using Guid(c50de59f22613f34db6331d7dca5252b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c55e184f31e8118d5347e48cededc5c7') in 0.011021 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 9
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/Prefabs/SK_Goat_white.prefab
-  artifactKey: Guid(c93276c6bfdd96e488320a743e593410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Prefabs/SK_Goat_white.prefab using Guid(c93276c6bfdd96e488320a743e593410) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '6fd068fedad3f8770fe198357932a853') in 0.052947 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 257
-========================================================================
-Received Import Request.
-  Time since last request: 18.505901 seconds.
-  path: Assets/Scripts/SpawnManager.cs
-  artifactKey: Guid(0dd19d9f3bcfe794db2f2775a5f62781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/SpawnManager.cs using Guid(0dd19d9f3bcfe794db2f2775a5f62781) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd10340c75e1a8b39e05eac1f73060db9') in 0.002567 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 3172.836917 seconds.
-  path: Assets/Scripts/SpawnManager-DESKTOP-LGKVR85.cs
-  artifactKey: Guid(4a93eb42cd6b9014686b5ad3c4f86386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/SpawnManager-DESKTOP-LGKVR85.cs using Guid(4a93eb42cd6b9014686b5ad3c4f86386) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c54be0276475d58d403272a8f7237c10') in 0.001020 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 1130.254757 seconds.
-  path: Assets/Scripts/FishMovement.cs
-  artifactKey: Guid(5b107a32ce1c1f047a4318b983a7f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/FishMovement.cs using Guid(5b107a32ce1c1f047a4318b983a7f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '147b6b8b564cfadd62d819b671716e8a') in 0.001932 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 159.154903 seconds.
-  path: Assets/Scripts/FishMovement.cs
-  artifactKey: Guid(5b107a32ce1c1f047a4318b983a7f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/FishMovement.cs using Guid(5b107a32ce1c1f047a4318b983a7f863) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5e57c98d44804c5ae4ebcd1b205bca0d') in 0.002769 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 71.866557 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Attack01.fbx
-  artifactKey: Guid(2195d9e1ab5c3f54a84283a7ece93ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Attack01.fbx using Guid(2195d9e1ab5c3f54a84283a7ece93ab5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'ca13a3f0ae5f26ec2a15c9aa4e874632') in 0.106213 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.101033 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Death.fbx
-  artifactKey: Guid(75d8250dcd76b5c4585ac0f6e52b941a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Death.fbx using Guid(75d8250dcd76b5c4585ac0f6e52b941a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8986f04b2613f35c353fda533381e122') in 0.008927 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.255399 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Eating.fbx
-  artifactKey: Guid(eca8aca02bcec1f48966bd55075ee445) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Eating.fbx using Guid(eca8aca02bcec1f48966bd55075ee445) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '3992f985a15b967b33051a38164eeee5') in 0.011190 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 83
-========================================================================
-Received Import Request.
-  Time since last request: 0.107126 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/Additive/GoatSheep_Eyes_Blink.fbx
-  artifactKey: Guid(e44d74e2a421a234a8dd8e678e05902e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/Additive/GoatSheep_Eyes_Blink.fbx using Guid(e44d74e2a421a234a8dd8e678e05902e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd4b82331c02dc9214ad8759849370993') in 0.003892 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.305090 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Hit_Reaction.fbx
-  artifactKey: Guid(831240f18fe8d9a488c354036ca5f045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Hit_Reaction.fbx using Guid(831240f18fe8d9a488c354036ca5f045) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '8cc965b6e0bdd24a24237c90e14eecda') in 0.006901 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.271802 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Idle_Variation.fbx
-  artifactKey: Guid(b4db6fab728ed814aaf915627ca50e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Idle_Variation.fbx using Guid(b4db6fab728ed814aaf915627ca50e74) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c6d9bbbb52a21c299be29eed2d624da6') in 0.008267 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.252833 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Run_Forward_RM.fbx
-  artifactKey: Guid(a52ce8bbc2bad69488c22d5dac6ae565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Run_Forward_RM.fbx using Guid(a52ce8bbc2bad69488c22d5dac6ae565) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '13e86bcc7cd8941400eee4a4b6bc2206') in 0.006512 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.314757 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Shuffle_L.fbx
-  artifactKey: Guid(df3af5747d531304e89c20324a6ef018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Shuffle_L.fbx using Guid(df3af5747d531304e89c20324a6ef018) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '60b1795f732f944092fe923bb5495632') in 0.009472 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.259224 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Shuffle_R.fbx
-  artifactKey: Guid(d681849af56b3394bb275ff7f9c69313) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Shuffle_R.fbx using Guid(d681849af56b3394bb275ff7f9c69313) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'dd191f0eac03e91b742cbe29142b3706') in 0.007037 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.004339 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Stand_to_Sit.fbx
-  artifactKey: Guid(c81ff0882f483e64885b11ca9bcdd1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/GoatSheep_Stand_to_Sit.fbx using Guid(c81ff0882f483e64885b11ca9bcdd1c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '2be1ccaff3a452768b8e90cd2e816c9c') in 0.005257 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.147254 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Trot_Forward_RM.fbx
-  artifactKey: Guid(15617d3e171881e4b8207a0c27ee8517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Trot_Forward_RM.fbx using Guid(15617d3e171881e4b8207a0c27ee8517) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '4dac40a19ce8f548cdf7f2f5d8283f32') in 0.007553 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Turn_90_R_RM.fbx
-  artifactKey: Guid(7120212368df17b4e9cae9947a5b26de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Turn_90_R_RM.fbx using Guid(7120212368df17b4e9cae9947a5b26de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1209c67bfaa651aefd69f21bcd656ef5') in 0.005950 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.234113 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Walk_Backwards_RM.fbx
-  artifactKey: Guid(dd9bc54cea4af434cb23e69b53cb197f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Walk_Backwards_RM.fbx using Guid(dd9bc54cea4af434cb23e69b53cb197f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '51f5f31f4fe8a9df57b965de2b546d36') in 0.008008 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 0.145322 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Walk_Forward_RM.fbx
-  artifactKey: Guid(6a18c3187843bd14691b835987ad355e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Animation/Goat&Sheep/RootMotion/GoatSheep_Walk_Forward_RM.fbx using Guid(6a18c3187843bd14691b835987ad355e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '311b402d42f2e25721941073412cf8a4') in 0.006297 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 81
-========================================================================
-Received Import Request.
-  Time since last request: 433.208198 seconds.
-  path: Assets/Scripts/DestroyBoundary.cs
-  artifactKey: Guid(3cdb4578338b8414daf0e4abe3b3aed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/DestroyBoundary.cs using Guid(3cdb4578338b8414daf0e4abe3b3aed3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '1a74e77e785d00c89f6f2391a68cea0d') in 0.001237 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 1084.946662 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Goat_dark.prefab
-  artifactKey: Guid(3edcf70af3303894482eb673a57b1198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Goat_dark.prefab using Guid(3edcf70af3303894482eb673a57b1198) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '253afcf5beb40da0a54141b5f3b2378b') in 0.077752 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 257
-========================================================================
-Received Import Request.
-  Time since last request: 0.102468 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Goat_dark.prefab
-  artifactKey: Guid(10ce23d3973fbc24685ff67147722a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Goat_dark.prefab using Guid(10ce23d3973fbc24685ff67147722a89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'bf2fff6e5bc540bb1c77ffaf090aa5b6') in 0.050124 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 257
-========================================================================
-Received Import Request.
-  Time since last request: 0.127612 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Goat_white.prefab
-  artifactKey: Guid(50adf57db9a2d1c4fb3e1e62c989baba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Goat_white.prefab using Guid(50adf57db9a2d1c4fb3e1e62c989baba) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'deb60ddee15adfaf2d70b7d4a6b55771') in 0.040274 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 257
-========================================================================
-Received Import Request.
-  Time since last request: 0.123555 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Goat_white.prefab
-  artifactKey: Guid(1f8729ffe5e3ebb45b5c6b50bc6a2cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Goat_white.prefab using Guid(1f8729ffe5e3ebb45b5c6b50bc6a2cec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f17937c732587c249468f951329b7f4c') in 0.045395 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 257
-========================================================================
-Received Import Request.
-  Time since last request: 0.085751 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_cream.prefab
-  artifactKey: Guid(d4d6ee78313566d4fb5c9a6ce2e66e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_cream.prefab using Guid(d4d6ee78313566d4fb5c9a6ce2e66e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '235d6337f301daa1f43801c574d7cdea') in 0.048097 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.092542 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_cream.prefab
-  artifactKey: Guid(8307f449fbafc9c4e8cef380c3972321) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_cream.prefab using Guid(8307f449fbafc9c4e8cef380c3972321) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'fa0aa1383e5edadf719938d322f95d53') in 0.044823 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.096545 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_dark.prefab
-  artifactKey: Guid(89340c34cb7cd124883d3f31b9835bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_dark.prefab using Guid(89340c34cb7cd124883d3f31b9835bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '18eb8bcbd6bb0870b42e35aaf62ea19c') in 0.036741 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.098588 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_dark.prefab
-  artifactKey: Guid(66eee84c240ac1347a5fc5c805193973) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_dark.prefab using Guid(66eee84c240ac1347a5fc5c805193973) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '638cadaa8ada62a2e34ded1024e0205e') in 0.036953 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.113784 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_white.prefab
-  artifactKey: Guid(d18aa2444a3fa8c429f4fe5d0cc90a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_HDRP/SK_Sheep_white.prefab using Guid(d18aa2444a3fa8c429f4fe5d0cc90a5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '5886bdfb86af6b74c22978b92e0e311b') in 0.050247 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 0.162060 seconds.
-  path: Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_white.prefab
-  artifactKey: Guid(f32fc89859f16ec49bc857008a5ed9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UrsaAnimation/LOW POLY CUBIC - Goat and Sheep Pack/Prefabs_URP/SK_Sheep_white.prefab using Guid(f32fc89859f16ec49bc857008a5ed9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'f7ec9b08af6249fce3c20b3f697fc9a7') in 0.051294 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 213
-========================================================================
-Received Import Request.
-  Time since last request: 463.453753 seconds.
-  path: Assets/Scripts/New Avatar Mask.mask
-  artifactKey: Guid(a8784161321e11f4aa37ac43da6a1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/New Avatar Mask.mask using Guid(a8784161321e11f4aa37ac43da6a1f26) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '339eca8e78db9dd3e22849791cd2bd8a') in 0.003807 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 18.191691 seconds.
-  path: Assets/Scripts/NewBehaviourScript.cs
-  artifactKey: Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/NewBehaviourScript.cs using Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '13434da7cf49237eb7d4a96f5190dab0') in 0.000714 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 22.797533 seconds.
+  Time since last request: 366.837806 seconds.
   path: Assets/Scripts/GameController.cs
   artifactKey: Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/GameController.cs using Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'c8f91caaf581b3c9e844794fce6a83e3') in 0.000615 seconds
+ -> (artifact id: 'e5cac53302eda70d70edbd4018381606') in 0.004070 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 237.719627 seconds.
+  Time since last request: 186.369634 seconds.
   path: Assets/Scripts/GameController.cs
   artifactKey: Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Scripts/GameController.cs using Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'd92629f965aad0b114e370a5a6b7a408') in 0.000797 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 315.490559 seconds.
-  path: Assets/Scripts/GameController.cs
-  artifactKey: Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameController.cs using Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: '9883eaed1111c2004e828a93d0307b4f') in 0.001097 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 594.914570 seconds.
-  path: Assets/Scripts/GameController.cs
-  artifactKey: Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/GameController.cs using Guid(fa0db44d6e54b2b4a95c5e5fa0195c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
- -> (artifact id: 'e5cac53302eda70d70edbd4018381606') in 0.001210 seconds
+ -> (artifact id: '03abd8018449f332655f2fd31207e042') in 0.000720 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0

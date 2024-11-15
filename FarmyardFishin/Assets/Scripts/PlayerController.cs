@@ -70,8 +70,7 @@ private void OnCollisionEnter(Collision collision)
         else if (collision.gameObject.CompareTag("Friend"))
         {
             // Attach the friend to the player
-            collision.gameObject.transform.SetParent(transform);
-
+            collision.gameObject.transform.SetParent(player.transform);
             Debug.Log("Friend attached!");
         }
     }

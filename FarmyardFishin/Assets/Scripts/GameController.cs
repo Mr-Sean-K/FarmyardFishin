@@ -12,7 +12,7 @@ public class GameController : MonoBehaviour
 
 
     private int lives = 3;
-    private int score = 0;
+    public static int score = 0;
 
     private bool gameOver = false;
 

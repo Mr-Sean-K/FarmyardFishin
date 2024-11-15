@@ -5,6 +5,8 @@ using UnityEngine;
 public class DestroyOutOfBoundsX : MonoBehaviour
 {
     public float xLimit = 28;
+    public float yLimit = 18;
+    GameController gameController;
 
     void Update()
     {
@@ -14,6 +16,11 @@ public class DestroyOutOfBoundsX : MonoBehaviour
         }
         else if (transform.position.x > xLimit){
             Destroy(gameObject);
+        }
+
+        if (transform.position.y > yLimit){ // when animals are hooked and brought to the top of the river, a point is added and the animal is removed
+            Destroy(gameObject);
+            GameController.score += 1;
         }
     }
 }

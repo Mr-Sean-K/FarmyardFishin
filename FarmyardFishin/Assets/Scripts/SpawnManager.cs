@@ -42,7 +42,7 @@ public class SpawnManager : MonoBehaviour
 
         NPCMovement fishMovement = fish.GetComponent<NPCMovement>();
         if (fishMovement != null){
-            fishMovement.speed = Random.Range(2f, 6f);
+            fishMovement.speed = Random.Range(4f, 10f);
         }
     }
 
